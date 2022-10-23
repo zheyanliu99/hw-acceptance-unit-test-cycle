@@ -28,3 +28,7 @@ Then /^the director of "(.*)" should be "(.*)"/ do |movie_name, director|
   movie = Movie.find_by(title: movie_name)
   expect(movie.director).to eq(director)
 end
+
+Then /^the Similar Movies page for "(.*)"/ do |title|
+  expect(page).to have_content(title)
+end

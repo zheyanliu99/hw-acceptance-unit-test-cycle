@@ -1,0 +1,9 @@
+<h2>Similar movies for <%= @title %> </h2>
+<ul>
+  <% @similar_movies.each do |movie_name| %>
+    <li>
+      <%= movie_name %>
+    </li>
+  <% end %>
+</ul>
+<%= link_to 'Back to movie list', movies_path, :class => 'btn btn-primary col-2'%>
