@@ -102,6 +102,111 @@
         ]
       }
     },
-    "timestamp": 1666514643
+    "timestamp": 1666584549
+  },
+  "RSpec": {
+    "coverage": {
+      "/home/codio/workspace/hw-acceptance-unit-test-cycle/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/codio/workspace/hw-acceptance-unit-test-cycle/app/helpers/movies_helper.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/home/codio/workspace/hw-acceptance-unit-test-cycle/app/controllers/movies_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          null,
+          3,
+          3,
+          3,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          4,
+          null,
+          null
+        ]
+      },
+      "/home/codio/workspace/hw-acceptance-unit-test-cycle/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          1,
+          null
+        ]
+      },
+      "/home/codio/workspace/hw-acceptance-unit-test-cycle/app/models/movie.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          4,
+          4,
+          null,
+          3,
+          3,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1666589152
   }
 }
